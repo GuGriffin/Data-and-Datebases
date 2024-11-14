@@ -10,7 +10,7 @@ A database is a storage medium organized according to data structure to manage a
 ## Basic Tutorials
 
 - **Database**
-  - Part 1: [Database](https://github.com/guobinhit/mysql-tutorial/blob/master/articles/database.md)
+  - Part 1: [Database](https://github.com/GuGriffin/Data-and-Datebases/blob/main/article/database.md)
   - Part 2: [Relational Database](https://github.com/guobinhit/mysql-tutorial/blob/master/articles/relation-db.md)
 - **MySQL Database**
   - Part 3: [MySQL Database](https://github.com/guobinhit/mysql-tutorial/blob/master/articles/mysql_db.md)
