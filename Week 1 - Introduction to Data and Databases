@@ -1,1 +1,18 @@
+# MySQL Client Installation Guide
 
+This guide provides step-by-step instructions for installing the MySQL client on Windows, macOS, and Linux.
+
+## Installation Steps
+
+### On Windows:
+1. **Download MySQL Installer**: Go to the [MySQL Downloads page](https://dev.mysql.com/downloads/installer/) and download the MySQL Installer for Windows.
+2. **Run the Installer**: Open the downloaded installer file.
+3. **Choose Setup Type**: Select "Custom" setup type to specifically install only the MySQL client if you don’t need the full server installation.
+4. **Select MySQL Client**: In the product list, expand "MySQL Server & MySQL Applications" and check "MySQL Command Line Client."
+5. **Install**: Click "Execute" to install.
+6. **Configuration**: Complete any required configuration settings, then close the installer.
+
+### On macOS:
+1. **Use Homebrew** (if installed):
+   ```bash
+   brew install mysql-client
