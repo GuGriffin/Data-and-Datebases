@@ -12,7 +12,6 @@ MySQL is a database software based on a Client/Server (C/S) architecture, consis
 ### 1. Client Connection and Authentication  
 To connect to the server and authenticate, use the following command:  
 -mysql.exe -hPup
-
 -h: Host address. For local connections, use localhost; for remote connections, use the IP address.
 -P: Port number, used to locate the server.
 -u: Username.
@@ -45,7 +44,7 @@ Table
 Field
 javascript
 
-You can save this as a Markdown file (e.g., `mysql_database_guide.md`) for documentation purposes. Let me know if you need further assistance!
+
 
 
 
